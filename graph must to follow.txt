@@ -1,0 +1,31 @@
+build a graph
+
+traversal -- bfs and dfs
+
+cyclic or acyclic -- bfs and dfs
+
+shortest path --- bfs,dijikstra* algo, 
+
+Toplogical Sorting.... Algo QQQ
+
+
+
+Minimum spanning tree ////// krushkal and prim
+Backtracking --- nQueen , Rat & maze Q*, Knight tour
+
+
+to read learn complexity
+---------
+
+bellman ford 
+floyd warshall 
+travelling salesman problem
+flood fill*
+graph coloring *
+snake and ladder
+
+
+
+
+
+
